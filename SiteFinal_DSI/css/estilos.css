@@ -1,0 +1,13 @@
+body {
+    min-width: 372px;
+}
+.container_rodapé { width: auto;
+max-width: 680px;
+padding: 0 15px;
+}
+
+
+a.nounderline:link 
+{ 
+ text-decoration:white; 
+} 
